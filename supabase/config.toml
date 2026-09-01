@@ -1,0 +1,2 @@
+[functions.sentiment-agent]
+verify_jwt = true
